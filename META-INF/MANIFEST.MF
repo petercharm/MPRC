@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ Jama-1.0.3.jar jcm1.0-config.jar jcommon-1.0.21.ja
+ r jfreechart-1.0.17.jar Mathematica.jar svd.jar
+Class-Path: .
+Rsrc-Main-Class: gui89.gui89
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
